@@ -1,0 +1,150 @@
+body
+{
+	/*background-image:url(../image/background.jpg); 
+	background-repeat:no-repeat;
+	background-position:center;
+	display: 0 auto;*/
+}
+
+
+
+#color
+{
+background-color:#99bc32;
+border-bottom:2px solid;
+border-bottom-color:#000000;
+margin-top:-15px;
+}
+.logo
+{
+font-family:tahoma;
+padding:4px;
+color:#000000;
+}
+
+.logo h2
+{
+font-family: 'Ubuntu', sans-serif;
+ font-style:bold;
+ color:#FFFFFF;
+ }
+ 
+.nav-bar  {
+  list-style: none;
+  background-color:#99bc32 ;
+  text-align: left;
+  padding: 0;
+  margin: 0;
+  width:100%;
+  margin-top:0px;
+  margin-bottom:10px;
+
+}
+.nav-bar li {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.2em;
+  font-style:bold;
+  padding: 0;
+  margin-bottom:-3px;
+  
+  
+}
+.nav-bar a{
+color:white;
+padding: 0;
+}
+.nav-bar a:hover{
+color:black;
+}
+.nav-bar li:hover {
+  background-color:#99bc32;
+  
+  }
+  
+#brand
+{
+ font-family: 'Ubuntu', sans-serif;
+  font-size: 1.2em;
+  font-style:bold;
+  padding: 0;
+  margin-bottom:-3px;
+  }
+  
+
+.title1{
+font: 25px "Century Gothic", "Times Roman", sans-serif;
+color:#99bc32;
+}
+.title2{
+font: 15px "Century Gothic", "Times Roman", sans-serif;
+
+}
+.panel{
+box-shadow: 10px 10px 5px #888888;
+border-color:black;
+}
+
+.centre
+{
+text-align:center;
+}
+
+.footer
+{
+color: #fff;
+	background-color:#99bc32;
+	background-image:url(../image/bg.png);
+	background-repeat: repeat-x;
+	padding-top: 10px;
+	margin-top: 50px;
+	height:auto;
+	margin-bottom:-27px;
+	text-align:center;
+	font-family: 'Ubuntu', sans-serif;
+	border-top:2px solid;
+	border-top-color:#000000;
+}
+.footer a
+{
+color:#000000;
+}
+.container
+{
+background-color:#f8f8f8;
+}
+
+
+.panel1{
+
+  margin-bottom: 20px;
+  background-color: #fff;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .05)
+          box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+box-shadow: 10px 10px 5px #888888;
+border-color:black;
+height:487px;
+}
+
+.panel2{
+
+  margin-bottom: 20px;
+  background-color: #fff;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .05)
+          box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+box-shadow: 10px 10px 5px #888888;
+border-color:black;
+height:515px;
+}
+.height1
+{
+height:180px;
+}
+
+.panel-success > .panel-heading{
+background:#99bc32; color: #000; }
+.panel-success > .panel-heading:hover {
+background:#99bc32; color: #000; }
